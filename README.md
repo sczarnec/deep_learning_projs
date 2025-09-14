@@ -14,7 +14,7 @@ This project involved using unstructured image data to predict whether a person 
 
 This project involved using a biological-based genetic algorithm technique to find the best hyperparameters for an XGBoost model. The model uses structured data to predict whether a given person will click on a phishing link or not. The goal here is to find the best combination of hyperparameters in terms of validation AUC. Although this method likely overfits on that validation data, the goal was to learn how to use a genetic algorithm technique to optimize model performance.
 
-The GA file is in this repo. The final report can be found at .
+The GA file is in this repo. The final report can be found at https://drive.google.com/drive/folders/1o2yjvaokVCSlLZk1VKS5XtloCKB4OcGN?usp=sharing.
 
 <br>
 
@@ -22,6 +22,6 @@ The GA file is in this repo. The final report can be found at .
 
 This project involved finding the model architecture that achieved the best accuracy on an NLP problem that predicted high or low severity messages of customers. We were given an initial notebook with structured NN, word CNN, character CNN, and LSTM architectures. We were encouraged to try concatenating the dense layers in different architectures for a concatenated model as well as try basic ensembling techniques. We were also encouraged to try transfer learn using transformer models.
 
-In the end, a BERT-based model (fine-tuned version for medical data called Roberta) and the concatenated model were ensembled to achieve the best results. Final results can be seen at .
+In the end, a BERT-based model (fine-tuned version for medical data called Roberta) and the concatenated model were ensembled to achieve the best results. Final results can be seen at https://drive.google.com/drive/folders/1hcLflwB9wbFOo98uC3oijjoAaF06GfQD?usp=sharing.
 
 
